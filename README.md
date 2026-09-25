@@ -6,13 +6,13 @@
 
 | № | Задача | Условие | Решение | Баллы |
 |---|---|---|---|---|
-| 1 | Равные суммы | [условие](problems/1.md) | [1.js](solutions/1.js) | |
-| 2 | Частые строки | [условие](problems/2.md) | [2.js](solutions/2.js) | |
-| 3 | Бинго | [условие](problems/3.md) | [3.js](solutions/3.js) | |
-| 4 | Перестановка с k инверсиями | [условие](problems/4.md) | [4.js](solutions/4.js) | |
-| 5 | k-й продукт пар | [условие](problems/5.md) | [5.js](solutions/5.js) | |
-| 6 | Турнир стажёров | [условие](problems/6.md) | [6.js](solutions/6.js) | |
-| 7 | Динамический MST | [условие](problems/7.md) | [7.js](solutions/7.js) | |
+| 1 | Равные суммы | [условие](problems/1.md) | [1.js](solutions/1.js) | 100 |
+| 2 | Частые строки | [условие](problems/2.md) | [2.js](solutions/2.js) | 100 |
+| 3 | Бинго | [условие](problems/3.md) | [3.js](solutions/3.js) | 100 |
+| 4 | Перестановка с k инверсиями | [условие](problems/4.md) | [4.js](solutions/4.js) | 100 |
+| 5 | k-й продукт пар | [условие](problems/5.md) | [5.js](solutions/5.js) | 100 |
+| 6 | Турнир стажёров | [условие](problems/6.md) | [6.js](solutions/6.js) | 3 |
+| 7 | Динамический MST | [условие](problems/7.md) | [7.js](solutions/7.js) | 23 |
 
 ## О задачах
 
